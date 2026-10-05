@@ -5,5 +5,5 @@
   "display":"standalone",
   "background_color":"#080806",
   "theme_color":"#080806",
-  "icons":[{"src":"favicon.png","sizes":"512x512","type":"image/png"},{"src":"apple-touch-icon.png","sizes":"512x512","type":"image/png"}]
+  "icons":[{"src":"assets/favicon.png","sizes":"512x512","type":"image/png"},{"src":"assets/apple-touch-icon.png","sizes":"512x512","type":"image/png"}]
 }

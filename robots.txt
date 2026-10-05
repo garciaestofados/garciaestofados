@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pblc15.github.io/garcia/sitemap.xml
+Sitemap: https://garciaestofados.pt/sitemap.xml
